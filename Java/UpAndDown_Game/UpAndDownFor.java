@@ -1,4 +1,4 @@
-/**
+/*
  * Guess the number of cards (up&down game)
 
  * Create a game to guess the number of hidden cards. This is a game where a card with a random number from 0 to 99 is hidden and the player has to guess the number of cards. 
